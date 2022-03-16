@@ -29,11 +29,11 @@
    </a>
 </p>
 <p align="center">
-  <a href="https://https://github.com/Sehas2/Hashzi-X">
+  <a href="https://https://github.com/Sehas2/Hashzi-">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://https://github.com/Sehas2/H"
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
